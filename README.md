@@ -70,7 +70,9 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/pouyaFallahi/pouyaFallahi/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/pouyaFallahi/pouyaFallahi/.github/workflows/main.yml" alt="Snake animation" />
+
+###
 
 
 ###
