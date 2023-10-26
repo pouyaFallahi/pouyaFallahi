@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/{{pouyaFallahi}}/{{pouyaFallahi}}/blob/output/github-contribution-grid-snake.svg)
 
 
 ###
