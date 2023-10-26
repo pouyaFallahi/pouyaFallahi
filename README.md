@@ -72,7 +72,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pouyaFallahi/pouyaFallahi/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/pouyaFallahi/pouyaFallahi/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
