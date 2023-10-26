@@ -69,8 +69,8 @@
 ###
 
 <br clear="both">
---snake
-<img src="https://raw.githubusercontent.com/pouyaFallahi/pouyaFallahi/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/pouyaFallahi/pouyaFallahi/output/snake.svg" alt="Generate snake animation" />
 
 
 ###
