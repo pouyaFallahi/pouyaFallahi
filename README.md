@@ -13,7 +13,6 @@
 <p align="left">🔭 I’m currently working in the Maltab-100 school<br>📚 I am currently learning python, network security<br>💬 Ask me about Python<br>🤝 I’m looking for help with security and networking</p>
 
 ###
-![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
 
 
 
