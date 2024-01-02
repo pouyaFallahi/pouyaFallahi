@@ -107,15 +107,3 @@
 <div align="center">
   <img height="200" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i3dztzizwe17355l4v9qdkgqfiak0qi52ntct2no&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/pouya-fallahi-8a3250156/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
