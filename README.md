@@ -83,23 +83,6 @@
   <img src="https://profile-counter.glitch.me/pouyaFallahi/count.svg?"  />
 </div>
 
-###
-
-<img align="right" height="225" src="https://media4.giphy.com/media/vzJGtYzvCs4mNf4zFa/giphy.gif?cid=ecf05e47lazba6qhe9l6288iknkn4tb7prr7ootw8ejxdbu4&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<img align="right" height="200" src="https://media3.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif?cid=ecf05e47dm73b575a4m5er19v5y78vnmxbmjorhocexxcnu7&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<img align="right" height="200" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47i3dztzizwe17355l4v9qdkgqfiak0qi52ntct2no&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i3dztzizwe17355l4v9qdkgqfiak0qi52ntct2no&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
 
 ###
 
