@@ -10,10 +10,14 @@
 
 ###
 
-<p align="left">🔭 🔭 Currently working at LexemeAI in Sharif University Innovation Building
+<p align="left">🔭 Currently working at LexemeAI in Sharif University Innovation Building
+  
 📚 Currently learning Python, Network Security
+
 💬 Ask me about Python
-🤝 I am looking for help with security and networking</p>
+
+🤝 I am looking for help with security and networking
+</p>
 
 ###
 
